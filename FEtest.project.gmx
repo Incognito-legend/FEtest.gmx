@@ -35,6 +35,8 @@
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\background2</background>
+    <background>background\background3</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -48,6 +50,7 @@
     <object>objects\objDoor_GTSR</object>
     <object>objects\objEvent1_Starting_Room_Text</object>
     <object>objects\objCharacterPortrait_Event_Instance</object>
+    <object>objects\objCharacter_2_Portrait_Event_Instance</object>
     <object>objects\objPlayer</object>
   </objects>
   <rooms name="rooms">
@@ -55,6 +58,8 @@
     <room>rooms\Castle_F1</room>
     <room>rooms\Castle_F2</room>
     <room>rooms\Town</room>
+    <room>rooms\Town_2</room>
+    <room>rooms\room6</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
