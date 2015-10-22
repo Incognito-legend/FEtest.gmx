@@ -726,13 +726,13 @@
     <instance objName="objDoor_Town_2_House_1" x="176" y="224" name="inst_9CE140DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_Town_2_House_2" x="320" y="224" name="inst_CB23BA90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_Town_2_Inn" x="368" y="96" name="inst_367CE3A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objDoor_Effect_2_CloseDoor" x="224" y="144" name="inst_CA75785F" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_Effect_1" x="224" y="208" name="inst_E2FE4360" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_Effect_2" x="224" y="96" name="inst_140BD149" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_Effect_2_CloseDoor" x="224" y="32" name="inst_2FA9D63D" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_GTNR" x="224" y="0" name="inst_E505BDB5" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_GTNR" x="224" y="496" name="inst_01CB718C" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_GTT" x="0" y="224" name="inst_3DA45F0D" locked="0" code="" scaleX="1" scaleY="4" colour="4294967295" rotation="0"/>
+    <instance objName="objDoor_Effect_1_CloseDoor" x="224" y="144" name="inst_C804F8BB" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background2" x="0" y="16" w="16" h="16" xo="48" yo="336" id="10011846" name="inst_8D254C0B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
