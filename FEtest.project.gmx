@@ -32,6 +32,7 @@
     <sprite>sprites\d_b_sp</sprite>
     <sprite>sprites\e_bv_sp</sprite>
     <sprite>sprites\Quick_Player_Dummy</sprite>
+    <sprite>sprites\Door</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -48,10 +49,14 @@
     <object>objects\objDoor_GTNR</object>
     <object>objects\objDoor_GTPR</object>
     <object>objects\objDoor_GTSR</object>
+    <object>objects\objDoor_Effect_1</object>
+    <object>objects\objDoor_Effect_2</object>
     <object>objects\objEvent1_Starting_Room_Text</object>
     <object>objects\objCharacterPortrait_Event_Instance</object>
     <object>objects\objCharacter_2_Portrait_Event_Instance</object>
     <object>objects\objPlayer</object>
+    <object>objects\objDoor_V_1</object>
+    <object>objects\objDoor_V_2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\_Starting_Room__Castle_Entrance</room>
