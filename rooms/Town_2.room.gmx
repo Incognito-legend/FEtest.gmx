@@ -732,6 +732,12 @@
     <instance objName="objDoor_Effect_2" x="240" y="96" name="inst_4EA30AE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_Effect_2" x="256" y="96" name="inst_07F091F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDoor_V_2" x="240" y="80" name="inst_CC5F20D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDoor_Arena" x="368" y="400" name="inst_73A041F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDoor_Armory_Shop" x="64" y="176" name="inst_F108C02E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDoor_Cleric_Shop" x="432" y="176" name="inst_37DA8E3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDoor_Town_2_House_1" x="176" y="224" name="inst_9CE140DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDoor_Town_2_House_2" x="320" y="224" name="inst_CB23BA90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDoor_Town_2_Inn" x="368" y="96" name="inst_367CE3A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background2" x="0" y="16" w="16" h="16" xo="48" yo="336" id="10011846" name="inst_8D254C0B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
