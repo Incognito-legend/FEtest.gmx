@@ -49,16 +49,11 @@
     <object>objects\objDoor_GTNR</object>
     <object>objects\objDoor_GTPR</object>
     <object>objects\objDoor_GTSR</object>
-    <object>objects\objDoor_Effect_1</object>
-    <object>objects\objDoor_Effect_1_CloseDoor</object>
-    <object>objects\objDoor_Effect_2</object>
-    <object>objects\objDoor_Effect_2_CloseDoor</object>
     <object>objects\objEvent1_Starting_Room_Text</object>
     <object>objects\objCharacterPortrait_Event_Instance</object>
     <object>objects\objCharacter_2_Portrait_Event_Instance</object>
     <object>objects\objPlayer</object>
-    <object>objects\objDoor_V_1</object>
-    <object>objects\objDoor_V_2</object>
+    <object>objects\objDoor_Town_2</object>
     <object>objects\objDoor_Arena</object>
     <object>objects\objDoor_Cleric_Shop</object>
     <object>objects\objDoor_Armory_Shop</object>

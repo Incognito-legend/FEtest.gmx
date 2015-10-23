@@ -8,7 +8,7 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="2" enumb="4">
+    <event eventtype="2" enumb="2">
       <action>
         <libid>1</libid>
         <id>110</id>
@@ -19,60 +19,12 @@
         <exetype>1</exetype>
         <functionname>action_move_start</functionname>
         <codestring></codestring>
-        <whoName>objDoor_V_2</whoName>
+        <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>109</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
-        <codestring></codestring>
-        <whoName>objDoor_Effect_2_CloseDoor</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>96</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>109</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
-        <codestring></codestring>
-        <whoName>objDoor_Effect_2</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
       </action>
     </event>
-    <event eventtype="2" enumb="2">
+    <event eventtype="2" enumb="1">
       <action>
         <libid>1</libid>
         <id>109</id>
@@ -83,7 +35,7 @@
         <exetype>1</exetype>
         <functionname>action_move_to</functionname>
         <codestring></codestring>
-        <whoName>objDoor_V_2</whoName>
+        <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
