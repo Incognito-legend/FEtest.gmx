@@ -71,6 +71,7 @@
     <object>objects\objDoor_Town_2_House_1</object>
     <object>objects\objDoor_Town_2_House_2</object>
     <object>objects\objDoor_Town_2_Inn</object>
+    <object>objects\objCharacter_Background</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\_Starting_Room__Castle_Entrance</room>
@@ -80,6 +81,7 @@
     <room>rooms\Town_2</room>
     <room>rooms\Prologue_Entering</room>
     <room>rooms\Prologue_Leaving</room>
+    <room>rooms\room7</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
