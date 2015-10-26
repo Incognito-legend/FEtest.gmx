@@ -25,13 +25,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>333</id>
+        <id>321</id>
         <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
         <useapplyto>0</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_save_game</functionname>
+        <functionname>action_message</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -39,7 +39,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>savegame</string>
+            <string>We finally made it to the Castle! After today the world will be free of tyranny forever!</string>
           </argument>
         </arguments>
       </action>
