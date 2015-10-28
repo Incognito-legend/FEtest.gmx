@@ -44,6 +44,7 @@
     <sprite>sprites\Quick_Player_Dummy</sprite>
     <sprite>sprites\Door</sprite>
     <sprite>sprites\Productions_Logo</sprite>
+    <sprite>sprites\door_key</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -65,6 +66,7 @@
     <object>objects\objCharacter_2_Portrait_Event_Instance</object>
     <object>objects\objPlayer</object>
     <object>objects\objDoor_Town_2</object>
+    <object>objects\objDoorTown_2_Door_2</object>
     <object>objects\objDoor_Arena</object>
     <object>objects\objDoor_Cleric_Shop</object>
     <object>objects\objDoor_Armory_Shop</object>
@@ -72,13 +74,15 @@
     <object>objects\objDoor_Town_2_House_2</object>
     <object>objects\objDoor_Town_2_Inn</object>
     <object>objects\objCharacter_Background</object>
+    <object>objects\objKey_door_1</object>
+    <object>objects\objKey_door_2</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Town_2</room>
     <room>rooms\_Starting_Room__Castle_Entrance</room>
     <room>rooms\Castle_F1</room>
     <room>rooms\Castle_F2</room>
     <room>rooms\Town</room>
-    <room>rooms\Town_2</room>
     <room>rooms\Prologue_Entering</room>
     <room>rooms\Prologue_Leaving</room>
     <room>rooms\room7</room>
